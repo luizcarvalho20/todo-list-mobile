@@ -44,13 +44,14 @@ Lista de tarefas
 
 Campo de texto + botão "Adicionar" + listagem dinâmica das tarefas criadas.
 
-(adicione aqui um print do emulador rodando seu app para ficar ainda mais convincente 🎯)
+(<img width="1920" height="1013" alt="image" src="https://github.com/user-attachments/assets/821bfab3-3671-429d-a440-1d6de9c852f4" />
+ 🎯)
 
 ▶️ Como Executar
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/todo-list-mobile.git
+git clone https://github.com/luizcarvalho20/todo-list-mobile.git
 
 
 Abra no Android Studio
