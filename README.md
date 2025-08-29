@@ -57,22 +57,14 @@ Abra no Android Studio
 
 Execute no emulador ou em um dispositivo físico
 
-🎯 Próximos Passos
 
-🔹 Persistência de dados com Room ou DataStore
-
-🔹 Melhorias visuais com animações do Compose
-
-🔹 Adicionar filtros de tarefas (pendentes / concluídas)
-
-🔹 Integração com banco remoto ou API
 
 👨‍💻 Autor
 
 Luiz Felipe Carvalho
 
-LinkedIn
+LinkedIn https://www.linkedin.com/in/luizcarvalho20/
 
-GitHub
+GitHub 
 
 👉 Esse app foi desenvolvido com foco em aprendizado e portfólio. Sinta-se à vontade para dar sugestões ou abrir issues!
